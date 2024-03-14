@@ -12,7 +12,7 @@ let info = {
     "Hi, I'm Manfredi Piraino, a junior Full Stack webdeveloper passionate for everything that is programming. ",
   links: {
     linkedin: "https://www.linkedin.com/in/manfredi-piraino/",
-    github: "https://github.com/manfred-commits",
+    github: "https://github.com/manfre3d",
     // behance: "",
     resume:
       "https://drive.google.com/file/d/1q-S54PTtyk1OJ0H8524OE1WNpad2Zf8U/view?usp=sharing"
@@ -132,7 +132,7 @@ let info = {
       category: "Web App",
       date: "December, 21",
       github:
-        "https://github.com/manfred-commits/team-7-deliveboo",
+        "https://github.com/manfre3d/team-7-deliveboo",
       visit: "https://deliveboo.herokuapp.com/",
       description:
         " Fully functioning food delivery web app, inspired by 'Deliveroo'. "
@@ -151,8 +151,8 @@ let info = {
       category: "Web App",
       date: "Jul, 20",
       github:
-        "https://github.com/manfred-commits/html-css-spotifyweb",
-      visit: "https://manfred-commits.github.io/html-css-spotifyweb/",
+        "https://github.com/manfre3d/html-css-spotifyweb",
+      visit: "https://manfre3d.github.io/html-css-spotifyweb/",
       description:
         " Spotify web page replica, fully responsive. "
     },
@@ -167,8 +167,8 @@ let info = {
       category: "Web App",
       date: "Oct, 8",
       github:
-        "https://github.com/manfred-commits/vue-boolflix",
-      visit: "https://manfred-commits.github.io/vue-boolflix/",
+        "https://github.com/manfre3d/vue-boolflix",
+      visit: "https://manfre3d.github.io/vue-boolflix/",
       description:
         " Boolflix web page replica. "
     },
@@ -183,8 +183,8 @@ let info = {
       category: "Web page",
       date: "Oct, 15",
       github:
-        "https://github.com/manfred-commits/proj-html-vuejs",
-      visit: "https://manfred-commits.github.io/proj-html-vuejs/",
+        "https://github.com/manfre3d/proj-html-vuejs",
+      visit: "https://manfre3d.github.io/proj-html-vuejs/",
       description:
         " Avada Fitness wordpress website replica. "
     },
@@ -199,8 +199,8 @@ let info = {
       category: "Web App",
       date: "September, 21",
       github:
-        "https://github.com/manfred-commits/vue-boolzapp",
-      visit: "https://manfred-commits.github.io/vue-boolzapp/",
+        "https://github.com/manfre3d/vue-boolzapp",
+      visit: "https://manfre3d.github.io/vue-boolzapp/",
       description:
         " Whatsapp web replica realized with Front-End technologies. "
     },
