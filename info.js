@@ -37,18 +37,6 @@ let info = {
       ]
     },
     {
-      name: "Università Pegaso",
-      place: "Torino",
-      date: "March, 2024 - Present",
-      degree: "Bachelor's degree in Computer Science",
-      gpa: "",
-      description:
-        "In parallel with my career as a software developer, I pursued a third degree in computer science to enhance my skills and knowledge. I am currently in my third year of study.",
-      skills: [
-        "",
-      ]
-    },
-    {
       name: "Università Telematica Pegaso",
       place: "Palermo",
       date: "Dec, 2019 - June 2021 ",
@@ -60,6 +48,18 @@ let info = {
         "fundamentals of cyber security",
         "security on the workplace",
         "basis in Workplace Management Systems",
+      ]
+    },
+    {
+      name: "Università Pegaso",
+      place: "Torino",
+      date: "March, 2024 - Present",
+      degree: "Bachelor's degree in Computer Science",
+      gpa: "",
+      description:
+        "In parallel with my career as a software developer, I pursued a third degree in computer science to enhance my skills and knowledge. I am currently in my third year of study.",
+      skills: [
+        "",
       ]
     },
     {
