@@ -37,6 +37,18 @@ let info = {
       ]
     },
     {
+      name: "Università Pegaso",
+      place: "Torino",
+      date: "March, 2024 - Present",
+      degree: "Bachelor's degree in Computer Science",
+      gpa: "",
+      description:
+        "In parallel with my career as a software developer, I pursued a third degree in computer science to enhance my skills and knowledge. I am currently in my third year of study.",
+      skills: [
+        "",
+      ]
+    },
+    {
       name: "Università Telematica Pegaso",
       place: "Palermo",
       date: "Dec, 2019 - June 2021 ",
@@ -64,6 +76,15 @@ let info = {
     },
   ],
   experience: [
+    {
+      name: "Bit S.p.a",
+      place: "Turin, Italy",
+      date: "March, 2022 - Present",
+      position: "Jr Full Stack Software Developer",
+      description:
+        "Over the past three years as a software developer consultant, I’ve worked on diverse projects across various industries. This experience has deepened my technical skills and enhanced my adaptability. Navigating different environments and challenges has sharpened my problem-solving abilities and enabled me to quickly integrate into teams, delivering tailored, high-quality solutions. These opportunities have fostered both my professional growth and technical expertise.",
+      // skills: ["Angular", "JavaSript", "TypeSript", "Spring Boot","Camel","Oracle","MongoDB", "VueJS"]
+    },
     {
       name: "Boolean Careers",
       place: "Milan, Italy",
